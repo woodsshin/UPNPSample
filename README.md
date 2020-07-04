@@ -26,7 +26,7 @@ https://github.com/woodsshin/UPNPSample/blob/master/Android_Build/UPNPSample_Adr
 In order to run it on android, you have to enable USB debugging and modify ANDROIDHOME as your local path in Install_UPNPSample_Development-armv7-es2.bat and Uninstall_UPNPSample_Development-armv7-es2.bat.
 https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/2/index.html
 
-UPNP Plugin Devmo
+UPNP Plugin Demo
 ##### [![UPNP Plugin Devmo](http://img.youtube.com/vi/_xru-Xc7Cwc/1.jpg)](https://www.youtube.com/watch?v=_xru-Xc7Cwc) 
 
 # Contact and Support
