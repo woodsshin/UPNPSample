@@ -3,15 +3,15 @@ UPNP Plugin is code plugin to make you easy to add and delete UDP/TCP port mappi
 
 # Features
 ### Manufacturer
-##### ![alt text](https://github.com/woodsshin/UPNPSample/blob/master/ScreenShot/manufacturer.png)
+##### ![alt text](https://github.com/woodsshin/UPNPSample/blob/main/ScreenShot/manufacturer.png)
 ### Device Status 
-##### ![alt text](https://github.com/woodsshin/UPNPSample/blob/master/ScreenShot/devicestatus.png)
+##### ![alt text](https://github.com/woodsshin/UPNPSample/blob/main/ScreenShot/devicestatus.png)
 ### UDP/TCP Port Mapping
-##### ![alt text](https://github.com/woodsshin/UPNPSample/blob/master/ScreenShot/portmapping.png)
+##### ![alt text](https://github.com/woodsshin/UPNPSample/blob/main/ScreenShot/portmapping.png)
 
 # Engine Compatibility
-##### Engine Version : 4.10 - 5.2
-##### Sample project Version : 5.2 
+##### Engine Version : 4.10 - 5.3
+##### Sample project Version : 5.3 
 ##### Intended Platform : Window, Mac, Mobile 
 ##### Platforms Tested : Window, Mac, Android
  
@@ -21,7 +21,7 @@ UPNP Plugin is code plugin to make you easy to add and delete UDP/TCP port mappi
 # Demos 
 Here is android build.
 
-https://github.com/woodsshin/UPNPSample/blob/master/Android_Build/UPNPSample_Adroid.zip
+https://github.com/woodsshin/UPNPSample/blob/main/Android_Build/UPNPSample_Adroid.zip
 
 In order to run it on android, you have to enable USB debugging and modify ANDROIDHOME as your local path in Install_UPNPSample_Development-armv7-es2.bat and Uninstall_UPNPSample_Development-armv7-es2.bat.
 https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/2/index.html
