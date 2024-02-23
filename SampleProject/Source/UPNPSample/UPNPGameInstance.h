@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Engine/GameInstance.h"
+#include "SimpleUPNPInfo.h"
 #include "UPNPGameInstance.generated.h"
 
 DECLARE_LOG_CATEGORY_EXTERN(UPNPGameInstanceLog, Log, All);
